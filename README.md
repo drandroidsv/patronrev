@@ -48,6 +48,6 @@
 
 4 chmod +x patronrev.sh
 
-5 abre terminar arrastra requerimentos.sh
+5 abre terminar arrastra "requerimentos.sh"
 
-6 en terminal python "arrastra frpandroid.sh
+6 en terminal python "arrastra patronrev.sh"
